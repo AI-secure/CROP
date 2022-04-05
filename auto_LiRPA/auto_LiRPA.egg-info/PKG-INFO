@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: auto-LiRPA
+Version: 0.1
+Summary: Automatic Linear Relaxation based Perturbation Analysis (LiRPA) for general computational graphs
+Home-page: https://github.com/KaidiXu/auto_LiRPA
+Author: Kaidi Xu, Zhouxing Shi, Huan Zhang
+Author-email: xu.kaid@husky.neu.edu, zhouxingshichn@gmail.com, huan@huan-zhang.com
+License: BSD
+Platform: any
+License-File: LICENSE
+
+UNKNOWN
+
